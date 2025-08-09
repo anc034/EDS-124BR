@@ -1,4 +1,4 @@
-# EDS-124BR Assignments
+# EDS-124BR Portfolio
 
 ## Explain your first program (Sequences Code Explanation):
 
