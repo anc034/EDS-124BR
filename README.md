@@ -25,3 +25,10 @@ Click to watch:
 Click to watch:
 
 [![Watch the video](https://img.youtube.com/vi/YdvDDeVoeIk/0.jpg)](https://youtu.be/YdvDDeVoeIk)
+
+### Explain your code (Variables Code Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/e8e1BRyMUC8/0.jpg)](https://youtu.be/e8e1BRyMUC8)
+
+
