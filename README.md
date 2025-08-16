@@ -20,3 +20,8 @@ Click to watch:
 Click to watch:
 
 [![Watch the video](https://img.youtube.com/vi/oNsHf1RqZM8/0.jpg)](https://youtu.be/oNsHf1RqZM8)
+
+### Explain your code (Events (monkey program) Code Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/YdvDDeVoeIk/0.jpg)](https://youtu.be/YdvDDeVoeIk)
