@@ -31,4 +31,16 @@ Click to watch:
 
 [![Watch the video](https://img.youtube.com/vi/e8e1BRyMUC8/0.jpg)](https://youtu.be/e8e1BRyMUC8)
 
+## Module 3
+
+### Explain your code (Conditional Loops Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/PlMyNAQwCWY/0.jpg)](https://youtu.be/PlMyNAQwCWY)
+
+### Explain your code (If Else Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/xIFcfHBvRhE/0.jpg)](https://youtu.be/xIFcfHBvRhE)
+
 
