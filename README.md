@@ -43,4 +43,16 @@ Click to watch:
 
 [![Watch the video](https://img.youtube.com/vi/xIFcfHBvRhE/0.jpg)](https://youtu.be/xIFcfHBvRhE)
 
+## Module 4
+
+### Explain your code (Nested If-Else Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/dAa1eiG4fIw/0.jpg)](https://youtu.be/dAa1eiG4fIw)
+
+### Explain your code (Compound Conditionals Explanation):
+Click to watch:
+
+[![Watch the video](https://img.youtube.com/vi/EHzy4Pz88FM/0.jpg)](https://youtu.be/EHzy4Pz88FM)
+
 
